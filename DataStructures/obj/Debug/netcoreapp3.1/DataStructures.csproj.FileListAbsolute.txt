@@ -1,0 +1,14 @@
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache
+M:\CSharpMaterial\DataStructuresPractice\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.AssemblyReference.cache

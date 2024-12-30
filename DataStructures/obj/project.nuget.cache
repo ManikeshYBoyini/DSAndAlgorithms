@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNAK59nhBLUsWBqkEUXWhQd3OdWL11Hg/4V2P0j1go7xbTpjkKN/sysE29Ae98Zclis+OB8FXKTz3x/Y3iOJXA==",
+  "success": true,
+  "projectFilePath": "M:\\Professional\\CSharpMaterial\\DataStructuresPractice\\DataStructures\\DataStructures\\DataStructures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
